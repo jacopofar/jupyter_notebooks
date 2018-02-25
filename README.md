@@ -12,6 +12,6 @@ To run all of them, you need Python3.6 or newer installed on the machine, then:
 
 This should work on Linux and MacOS, for Windows a few changes could are needed.
 
-##Content:
+## Content:
 
 * [coordinate to color prediction](notebooks/coordinate_to_color_prediction.ipynb) train machine learning models on an image, predicting the color given the coordinates, to get a visual representation of how they behave
