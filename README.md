@@ -1,16 +1,7 @@
 # Collection of Jupyter notebooks
 
-This is a collection of Jupyter notebooks
+This is a collection of Jupyter notebooks, all requiring at least Python 3.6
 
-##
-To run all of them, you need Python3.6 or newer installed on the machine, then:
-
-1. create a virtual environment with `python3 -m venv.venv`
-2. activate it with `source ./venv/bin/activate`
-3. run `pip3 install -r requirements.txt`
-4. run Jupyter or Jupyterlab
-
-This should work on Linux and MacOS, for Windows a few changes could are needed.
 
 ## Content:
 
